@@ -1,7 +1,7 @@
 {
-  "name": "gatsby-starter-hello-world",
+  "name": "0xf3-org",
   "private": true,
-  "description": "A simplified bare-bones starter for Gatsby",
+  "description": "0xF3 ORG",
   "version": "0.1.0",
   "license": "0BSD",
   "scripts": {
@@ -14,18 +14,55 @@
     "test": "echo \"Write tests! -> https://gatsby.dev/unit-testing\" && exit 1"
   },
   "dependencies": {
+    "@carbon/elements": "^10.9.2",
+    "@emotion/core": "^10.0.22",
+    "@emotion/styled": "^10.0.23",
+    "@lightspeed/flame": "^1.2.4",
+    "@mdx-js/mdx": "^1.5.3",
+    "@mdx-js/react": "^1.5.3",
+    "@mkitio/gatsby-theme-password-protect": "^2.1.1",
+    "babel-plugin-styled-components": "^1.10.6",
+    "emotion-theming": "^10.0.19",
+    "flexbox": "^0.0.3",
     "gatsby": "^2.24.66",
     "react": "^16.12.0",
-    "react-dom": "^16.12.0"
+    "react-dom": "^16.12.0",
+    "gatsby-image": "^2.2.30",
+    "gatsby-plugin-google-analytics": "^2.1.31",
+    "gatsby-plugin-manifest": "^2.2.25",
+    "gatsby-plugin-mdx": "^1.0.67",
+    "gatsby-plugin-offline": "^3.0.17",
+    "gatsby-plugin-page-creator": "^2.1.38",
+    "gatsby-plugin-postcss": "^2.1.16",
+    "gatsby-plugin-react-helmet": "^3.1.13",
+    "gatsby-plugin-sharp": "^2.2.34",
+    "gatsby-plugin-styled-components": "^3.1.16",
+    "gatsby-plugin-transition-link": "^1.16.2",
+    "gatsby-remark-embed-youtube": "^0.0.7",
+    "gatsby-source-filesystem": "^2.1.35",
+    "gatsby-transformer-remark": "^2.6.45",
+    "gatsby-transformer-sharp": "^2.3.1",
+    "gsap": "^3.0.1",
+    "lodash": "^4.17.15",
+    "prop-types": "^15.7.2",
+    "react-helmet": "^5.2.1",
+    "react-spring": "^8.0.27",
+    "rebass": "^4.0.7",
+    "simple-flexbox": "^2.3.0",
+    "styled-components": "^4.4.1",
+    "styled-system": "^5.1.2",
+    "typeface-inter": "^3.10.0",
+    "typography": "^0.16.19",
+    "use-media": "^1.4.0"
   },
   "devDependencies": {
     "prettier": "2.1.2"
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/gatsbyjs/gatsby-starter-hello-world"
+    "url": "https://github.com/0xftrestech/0xf3-org"
   },
   "bugs": {
-    "url": "https://github.com/gatsbyjs/gatsby/issues"
+    "url": "https://github.com/0xftrestech/0xf3-org/issues"
   }
 }
