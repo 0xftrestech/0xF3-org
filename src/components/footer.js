@@ -23,7 +23,7 @@ export default ({ children }) => (
         Copyright © {new Date().getFullYear()}, 0xF3
       </Column>
       <Column flexGrow={1} alignItems="end">
-        <a href="https://twitter.com/@F3_0x">@0x_F3</a>
+        <a href="https://twitter.com/@0x_F3">@0x_F3</a>
       </Column>
     </Row>
   </FooterWrapper>
